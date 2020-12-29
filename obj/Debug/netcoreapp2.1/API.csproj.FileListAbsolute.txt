@@ -1,0 +1,14 @@
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\bin\Debug\netcoreapp2.1\API.deps.json
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\bin\Debug\netcoreapp2.1\API.dll
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\bin\Debug\netcoreapp2.1\API.pdb
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.dll
+F:\Projects\Angular_Projects\Udemy\Datingapps\aPI\obj\Debug\netcoreapp2.1\API.pdb
